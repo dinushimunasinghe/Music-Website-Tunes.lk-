@@ -1,8 +1,6 @@
 🎵 TUNES.LK  
 
-Sri Lanka's No.1 Digital Music Network 
-
-🚀 A modern music streaming web application built using **React + TypeScript**, designed to showcase Sri Lankan music, artists, and digital content.
+🚀 A modern music streaming web application built using **React + TypeScript, designed to showcase Sri Lankan music, artists, and digital content.
 
 🌐 Live Demo
 👉[ https://your-vercel-link.vercel.app/](https://tuneslk.vercel.app/)
@@ -24,7 +22,7 @@ Sri Lanka's No.1 Digital Music Network
 - ⚛️ React
 - 🟦 TypeScript
 - 🎨 Tailwind CSS
-- 🔥 Firebase (Optional Backend)
+- 🔥 Firebase (Backend)
 - ▲ Vercel (Deployment)
 
  Preview 
@@ -44,7 +42,7 @@ Sri Lanka's No.1 Digital Music Network
 📁 Project Structure
 
 1. Clone the repository
-git clone https://github.com/dinushimunasinghe /tunes.lk.git
+git clone [https://github.com/dinushimunasinghe /tunes.lk.git](https://github.com/dinushimunasinghe/Music-Website-Tunes.lk-)
 cd tunes.lk
 2. npm install
 3. npm run dev
