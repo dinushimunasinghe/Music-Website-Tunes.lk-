@@ -27,10 +27,25 @@ Sri Lanka's No.1 Digital Music Network
 - ▲ Vercel (Deployment)
 
  Preview 
- ![Uploading Screenshot 2026-07-15 at 23.44.53.png…]()
+ 
+<img width="1440" height="776" alt="Screenshot 2026-07-15 at 23 44 53" src="https://github.com/user-attachments/assets/5af086a7-14b5-425b-a284-b08fb7ba00a6" />
+
  <img width="1436" height="493" alt="Screenshot 2026-07-15 at 23 45 30" src="https://github.com/user-attachments/assets/9b59ecc9-a097-434b-8a37-32ae355bcf7f" />
+ 
 <img width="1440" height="777" alt="Screenshot 2026-07-15 at 23 45 14" src="https://github.com/user-attachments/assets/d3fc84b8-df59-4973-afbf-daba228f9902" />
 
+<img width="1440" height="779" alt="Screenshot 2026-07-15 at 23 45 39" src="https://github.com/user-attachments/assets/373f5843-7ccc-4779-a1bc-d4ed25aff9b4" />
+
+<img width="1440" height="780" alt="Screenshot 2026-07-15 at 23 45 48" src="https://github.com/user-attachments/assets/036b36db-d283-457f-baa9-eb443ead61c4" />
+
+<img width="1440" height="775" alt="Screenshot 2026-07-15 at 23 46 41" src="https://github.com/user-attachments/assets/1fc1ef52-4d49-43fc-9dc3-18dd03622248" />
+
+<img width="1438" height="784" alt="Screenshot 2026-07-15 at 23 46 04" src="https://github.com/user-attachments/assets/be4a1a04-1f87-4185-b110-e5d35063eef1" />
 
 
-## 📁 Project Structure
+
+
+
+
+
+<img width="1440" height="779" alt="Screenshot 2026-07-15 at 23 45 39" src="https://github.com/user-attachments/assets/c5092d57-a1ef-4021-afa3-f62c685a4570" />
