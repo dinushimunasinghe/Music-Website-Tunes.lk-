@@ -1,4 +1,5 @@
 🎵 TUNES.LK  
+
 Sri Lanka's No.1 Digital Music Network 
 
 🚀 A modern music streaming web application built using **React + TypeScript**, designed to showcase Sri Lankan music, artists, and digital content.
@@ -40,7 +41,14 @@ Sri Lanka's No.1 Digital Music Network
 
 <img width="1440" height="775" alt="Screenshot 2026-07-15 at 23 46 41" src="https://github.com/user-attachments/assets/1fc1ef52-4d49-43fc-9dc3-18dd03622248" />
 
-<img width="1438" height="784" alt="Screenshot 2026-07-15 at 23 46 04" src="https://github.com/user-attachments/assets/be4a1a04-1f87-4185-b110-e5d35063eef1" />
+📁 Project Structure
+
+1. Clone the repository
+git clone https://github.com/dinushimunasinghe /tunes.lk.git
+cd tunes.lk
+2. npm install
+3. npm run dev
+4. npm run build
 
 
 
@@ -48,4 +56,4 @@ Sri Lanka's No.1 Digital Music Network
 
 
 
-<img width="1440" height="779" alt="Screenshot 2026-07-15 at 23 45 39" src="https://github.com/user-attachments/assets/c5092d57-a1ef-4021-afa3-f62c685a4570" />
+
